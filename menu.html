@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Restaurant Web App</title>
+    <link rel="stylesheet" href="css/style_menu.css">
+</head>
+<body>
+    <header>
+        <table >
+            <tr> 
+                <td class="logo"> 
+                    <a href="iindex.html" onclick=" $dc.loadMenuItems('EL ALAMI');" class="logo-container">
+                        <img src="css/logoresto.jpg" alt="Restaurant Logo" >
+                         <h1 class="banner-text"   > EL ALAMI </h1>
+                    </a>
+                </td>
+                <td class="menu"> 
+                    <h1>Welcome to Our Restaurant</h1>
+                    <nav>
+                       <ul>
+                            <li>
+                                <a href="iindex.html" onclick="$dc.loadMenuItems('Home');" >Home</a>
+                            </li>
+                            <li>
+                                <a href="menu.html" onclick="$dc.loadMenuItems('Menu');" >Menu</a>
+                            </li>
+                            <li>
+                                <a href="#" onclick="$dc.loadMenuItems('Specials');" >Specials</a>
+                            </li>
+                            <li>
+                                <a href="https://www.google.com/maps/place/Saskatchewan,+Canada/@52.986634,-124.577818,5z/data=!3m1!4b1!4m15!1m8!3m7!1s0x4b0d03d337cc6ad9:0x9968b72aa2438fa5!2sCanada!3b1!8m2!3d56.130366!4d-106.346771!16zL20vMGQwNjBn!3m5!1s0x52f871b12365762f:0x15342b5792c2e12b!8m2!3d52.9399159!4d-106.4508639!16zL20vMDZucnQ?entry=ttu"
+                                 onclick="$dc.loadMenuItems('Map');" >
+                                    Map</a>
+                            </li>
+                        </ul>  
+                    </nav>   
+            </tr>
+        </table>
+    </header>  
+    <main>  
+        <h1 class="h1" align="center">Menu Categories</h1>
+        <h3 align="center"> Substituting white rice with brown rice or fried rice after 3:00pm will be $1.50 for a pint and $2.50 for a quart.</h3>
+         <div class="tiles" >
+            <div class="tile" id="menu-tile" align="center">
+                <h2  > 
+                    <a class="logo-container" href="lunch.html"> <img src="css/lunch.jpg"width="300" height="200" alt="connection problem"> Lunch </a>
+                </h2>
+            </div>
+            <div class="tile" id="menu-tile" align="center">
+                <h2> 
+                    <a class="logo-container" href="soup.html"> <img src="css/soup1.jpg"width="300" height="200" alt="connection problem"> Soup </a>
+                </h2>
+            </div>
+            <div class="tile" id="menu-tile" align="center">
+                <h2> 
+                    <a class="logo-container" href="chicken.html"> <img src="css/chicken.jpg"width="300" height="200" alt="connection problem"> Chicken </a>
+                </h2>
+            </div>
+            <div class="tile" id="specials-tile" align="center">
+                <h2>
+                    <a class="logo-container" href="beef.html"> <img src="css/Beef.jpg"width="300" height="200" alt="connection problem">Beef</a>
+                </h2>
+            </div>
+            <div class="tile" id="specials-tile" align="center">
+                <h2>
+                    <a class="logo-container" href="deserts.html"> <img src="css/logodesserts.jpg"width="300" height="200" alt="connection problem">Desserts</a>
+                </h2>
+            </div>
+            <div class="tile" id="specials-tile" align="center">
+                <h2>
+                    <a class="logo-container" href="chow_mein.html"> <img src="css/Chow_Mein3.jpg"width="300" height="200" alt="connection problem">Chow Mein</a>
+                </h2>
+            </div>
+        
+            <div class="tile" id="map-tile" align="center" id="map-tile">
+                <h2>
+                    <a class="logo-container" href="rice.html"> 
+                        <img src="css/rice.jpg" width="300" height="200" alt="connection problem"> Rice
+                    </a>
+                </h2>
+            </div>
+            <div class="tile" id="specials-tile" align="center">
+                <h2>
+                    <a class="logo-container" href="sushi.html"> <img src="css/sushi.jpg" width="300" height="200" alt="connection problem">Sushi</a>
+                </h2>
+            </div>
+            <div class="tile" id="specials-tile" align="center">
+                <h2>
+                    <a class="logo-container" href="noodles.html"> <img src="css/Noodles.jpg"width="300" height="200" alt="connection problem">Noodles </a>
+                </h2>
+            </div>
+        </div>
+    </main>
+    <footer>
+        <table  >
+            <tbody>
+                <tr>
+                    <td class="hours" >
+                        <h5>&nbsp;&nbsp; Hours:</h5> 
+                        &nbsp;&nbsp;&nbsp;&nbsp;Sun-Thurs: 11:15am - 10:00pm <br>
+                        &nbsp;&nbsp;&nbsp;&nbsp;Fri: 11:15am - 2:30pm <br>
+                        &nbsp;&nbsp;&nbsp;&nbsp;Saturday Closed 
+                    </td>
+
+                    <td class="Address">
+                        <h5>&nbsp;&nbsp; Address:</h5>
+                        &nbsp;&nbsp;&nbsp;&nbsp;7105 Reisterstown Road <br>
+                        &nbsp;&nbsp;&nbsp;&nbsp;Baltimore, MD 21215 <br>
+                        <h5 class="green" >
+                            * Delivery area within 3-4 miles, with minimum order of $20 plus $3 charge for all deliveries.</p>
+                        </h5>
+                    </td>
+                   <td class="Description">
+                          "The best Chinese restaurant I've been to! And that's saying a lot, since I've been to many!"
+                        <br><br>
+                           "Amazing food! Great service! Couldn't ask for more! I'll be back again and again!"
+                       
+                    </td>
+                </tr>
+</table>
+<br><br>
+        <p >&copy; 2024 Restaurant Web App. All rights reserved.</p>
+    </footer>
+</body>
+</html>
