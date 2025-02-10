@@ -5,26 +5,20 @@ This restaurant website features an interactive menu, online reservations, speci
 
 ![Restaurant](https://github.com/user-attachments/assets/7730f7ce-ae9e-411c-9372-20de66d4ae80)
 
-This repository contains the code for a **Restaurant Website** designed to provide an interactive experience for customers.
+This repository contains the code for a **Restaurant Website**, providing an interactive platform for customers to explore menus, make reservations, view special offers, and stay updated with upcoming events. It aims to offer a seamless and engaging experience to diners.
 
 ## Features
 
-- **Interactive Menu**: Browse and explore a dynamic menu with dishes categorized for easier navigation.
-- **Online Reservations**: Book a table online in just a few clicks.
-- **Special Offers**: Check out exclusive offers and discounts.
-- **Upcoming Events**: Stay up to date with the latest events happening at the restaurant.
+- **Interactive Menu**: Browse and explore a dynamic, categorized menu with detailed descriptions of dishes. The menu is updated in real-time to reflect changes in availability.
+- **Online Reservations**: Reserve a table quickly with a simple, user-friendly booking system that ensures hassle-free dining experiences.
+- **Special Offers**: Discover exclusive offers and promotions, including seasonal discounts and meal deals.
+- **Upcoming Events**: Keep up-to-date with the latest events, live performances, and special gatherings hosted by the restaurant.
+- **Responsive Design**: Fully responsive website that adapts to mobile and desktop devices, providing a great experience on any screen size.
 
 ## Technologies Used
 
 - HTML5
 - CSS3
-
-## Getting Started
-
-To get a local copy up and running, follow these steps:
-
-### Prerequisites
-
 
 ### Installation
 
