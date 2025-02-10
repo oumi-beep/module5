@@ -1,6 +1,7 @@
 # Restaurant Website
 
 This restaurant website features an interactive menu, online reservations, special offers, and information on upcoming events.
+## Screenshots
 
 ![Restaurant](https://github.com/user-attachments/assets/7730f7ce-ae9e-411c-9372-20de66d4ae80)
 
@@ -12,10 +13,6 @@ This repository contains the code for a **Restaurant Website** designed to provi
 - **Online Reservations**: Book a table online in just a few clicks.
 - **Special Offers**: Check out exclusive offers and discounts.
 - **Upcoming Events**: Stay up to date with the latest events happening at the restaurant.
-
-## Screenshots
-
-![Restaurant Website Preview](path-to-image.jpg)
 
 ## Technologies Used
 
@@ -33,5 +30,5 @@ To get a local copy up and running, follow these steps:
 
 1. Clone the repository
    ```bash
-   git clone (https://github.com/oumi-beep/module5.git)
+   git clone https://github.com/oumi-beep/module5.git
 
