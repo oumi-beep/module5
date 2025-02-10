@@ -1,5 +1,4 @@
 # Restaurant Website
-# Restaurant Website
 
 This restaurant website features an interactive menu, online reservations, special offers, and information on upcoming events.
 
@@ -34,5 +33,5 @@ To get a local copy up and running, follow these steps:
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/yourusername/restaurant-website.git
+   git clone (https://github.com/oumi-beep/module5.git)
 
