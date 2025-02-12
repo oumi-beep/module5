@@ -1,6 +1,6 @@
 # Restaurant Website
 
-This restaurant website features an interactive menu, online reservations, special offers, and information on upcoming events.
+This restaurant website features an interactive menu, special offers, and information on upcoming events.
 ## Screenshots
 
 ![Restaurant](https://github.com/user-attachments/assets/7730f7ce-ae9e-411c-9372-20de66d4ae80)
