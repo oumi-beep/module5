@@ -10,7 +10,6 @@ This repository contains the code for a **Restaurant Website**, providing an int
 ## Features
 
 - **Interactive Menu**: Browse and explore a dynamic, categorized menu with detailed descriptions of dishes. The menu is updated in real-time to reflect changes in availability.
-- **Online Reservations**: Reserve a table quickly with a simple, user-friendly booking system that ensures hassle-free dining experiences.
 - **Special Offers**: Discover exclusive offers and promotions, including seasonal discounts and meal deals.
 - **Upcoming Events**: Keep up-to-date with the latest events, live performances, and special gatherings hosted by the restaurant.
 - **Responsive Design**: Fully responsive website that adapts to mobile and desktop devices, providing a great experience on any screen size.
